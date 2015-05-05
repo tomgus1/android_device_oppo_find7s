@@ -1,33 +1,9 @@
 [
     {
         "remote":      "github",
-        "repository":  "NamelessRom/android_kernel_oneplus_msm8974",
-        "target_path": "kernel/oneplus/msm8974",
-        "revision":    "n-2.0"
-    },
-    {
-        "remote":      "github",
-        "repository":  "AOSPA-legacy/android_device_oppo_find7-common",
+        "repository":  "AOSPA-L/android_device_oppo_find7-common",
         "target_path": "device/oppo/find7-common",
-        "revision":    "lollipop"
-    },
-    {
-        "remote":      "github",
-        "repository":  "AOSPA-legacy/android_device_oppo_msm8974-common",
-        "target_path": "device/oppo/msm8974-common",
-        "revision":    "lollipop"
-    },
-    {
-        "remote":      "github",
-        "repository":  "AOSPA-legacy/android_device_oppo_common",
-        "target_path": "device/oppo/common",
-        "revision":    "lollipop"
-    },
-    {
-        "remote":       "github",
-        "repository":   "CyanogenMod/android_device_qcom_common",
-        "target_path":  "device/qcom/common",
-        "revision":     "cm-12.0"
+        "revision":    "lollipop-mr1"
     },
     {
         "remote":      "github",
@@ -37,14 +13,14 @@
     },
     {
         "remote":      "github",
-        "repository":  "AOSPA-legacy/android_external_sepolicy",
+        "repository":  "AOSPA-L/android_external_sepolicy",
         "target_path": "external/sepolicy",
-        "revision":    "lollipop"
+        "revision":    "lollipop-mr1"
     },
     {
         "remote":      "blobs",
         "repository":  "proprietary_vendor_oppo",
         "target_path": "vendor/oppo",
-        "revision":    "cm-12.0"
+        "revision":    "cm-12.1"
     }
 ]
